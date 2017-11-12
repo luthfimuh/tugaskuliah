@@ -1,0 +1,133 @@
+body{
+	font: 16px/28px arial, sans-serif;
+	background-color: #2E8B57;
+	color: #008080;
+}
+
+.wrapper{
+	width: 1000px;
+	margin: auto;
+	background-color: #F0F8FF;
+	margin: 20px auto 20px auto;
+}
+
+header{
+	height: 170px;
+	margin: 4px;
+	padding: 10px;
+}
+
+#logo{
+	float: left;
+	width: 140px;
+	height: 80px;
+	margin: 5px;
+}
+
+#logo img{
+	width: 140px;
+	height: 80px;
+}
+
+header .title{
+	font: 28px forte, sans-serif;
+	color: #2F4F4F;
+	font-style: italic;
+	padding: 20px;
+	padding-bottom: 20px;
+}
+
+.title{
+	text-align: center;
+}
+
+nav{
+	height: 40px;	
+}
+
+p{
+	text-align: justify;
+}
+
+nav ul{
+	margin: 5px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+		
+nav ul li{
+	display: inline-block;
+	margin-top: 0.5px;
+	margin-right: 5px;
+}
+
+nav ul li a {
+	text-decoration: none;
+	color: #2F4F4F;
+}
+
+nav ul li a:hover{
+	color: #9ACD32;
+}
+
+#banner {
+	height: 248px;
+	margin: 5px;
+	padding: 10px;
+}
+
+#banner img {
+	width: 970px;
+	height: 248px;
+}
+
+.contain{
+	float: left;
+	width: 692px;
+	margin: 4px;
+	padding: 10px;
+}
+
+article{
+	margin: 4px;
+}
+
+aside{
+	float: left;
+	width: 250px;
+	margin: 4px;
+	padding: 10px;
+}
+
+h4{
+	padding-left: 20px;
+}
+
+.side{
+	margin: 3px;
+}
+
+.toside{
+	margin: 3px;
+	padding-left: 30px;
+}
+
+a {
+	text-decoration: none;
+	color: #008080;
+}
+
+a:hover{
+	color: #9ACD32;
+}
+
+footer{
+	padding: 10px;
+	clear: both;
+	margin: 4px;
+}
+
+footer .position{
+	text-align: center;
+	font-size: 13px;
+}
